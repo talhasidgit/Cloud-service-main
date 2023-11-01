@@ -1,0 +1,11 @@
+{
+  "name": "keepkloud",
+  "version": "1.0.0",
+  "description": "keep kloud",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "",
+  "license": "ISC"
+}
